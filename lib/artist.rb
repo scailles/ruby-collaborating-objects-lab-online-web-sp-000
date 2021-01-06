@@ -19,7 +19,9 @@ class Artist
   
   
   def songs
-    @songs
+    @songs.each do |song|
+      print song.name
+    end
   end
   
   
