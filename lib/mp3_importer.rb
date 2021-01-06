@@ -1,4 +1,4 @@
-require_relative()
+require_relative("./spec/fixtures/mp3s")
 class MP3Importer
   
   attr_accessor :path
