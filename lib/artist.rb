@@ -23,7 +23,7 @@ class Artist
   end
   
   
- def add_song(name)
+ def add_song
     @songs << song
   end
   
