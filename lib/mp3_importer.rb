@@ -1,5 +1,6 @@
 
-require
+require spec_helper
+require pry
 
 class MP3Importer
   
