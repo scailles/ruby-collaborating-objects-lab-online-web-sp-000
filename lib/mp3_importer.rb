@@ -1,5 +1,5 @@
-require ("../lib/mp3_importer.rb")
-
+require_all('lib'
+)
 class MP3Importer
   
   attr_accessor :path
