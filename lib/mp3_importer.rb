@@ -1,4 +1,4 @@
-
+require_relative "../lib/mp3_importer.rb"
 
 class MP3Importer
   
