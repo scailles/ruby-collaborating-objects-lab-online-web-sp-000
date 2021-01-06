@@ -1,4 +1,4 @@
-require_
+require_relative()
 class MP3Importer
   
   attr_accessor :path
