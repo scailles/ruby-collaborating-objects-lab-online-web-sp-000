@@ -1,5 +1,4 @@
-require_all('lib'
-)
+require_
 class MP3Importer
   
   attr_accessor :path
